@@ -1,0 +1,120 @@
+{
+  "user_id": "68ef17c83f1a47eb7d8b043b",
+  "data_type": "complete_backup",
+  "backup_data": {
+    "data": {
+      "reports": {
+        "data": [
+          {
+            "id": "1745918163134y5c7aacy2",
+            "name": "复查专用报告",
+            "type": "review-report",
+            "createTime": "2025-04-29T09:16:03.134Z",
+            "isFixed": true
+          },
+          {
+            "id": "1760168085217",
+            "name": "肝肾功",
+            "type": "new-blood",
+            "createTime": "2025-10-11T07:34:45.217Z"
+          },
+          {
+            "id": "1760168098351",
+            "name": "血常规",
+            "type": "new-blood",
+            "createTime": "2025-10-11T07:34:58.351Z"
+          },
+          {
+            "id": "1760168109119",
+            "name": "尿常规",
+            "type": "new-blood",
+            "createTime": "2025-10-11T07:35:09.119Z"
+          },
+          {
+            "id": "1745928797525",
+            "name": "病毒检测",
+            "type": "new-blood",
+            "createTime": "2025-04-29T12:13:17.526Z"
+          },
+          {
+            "id": "1747964470805",
+            "name": "用药管理",
+            "type": "new-blood",
+            "createTime": "2025-05-23T01:41:10.805Z"
+          }
+        ],
+        "meta": {
+          "name": "报告数据",
+          "description": "所有医疗报告记录",
+          "collectedAt": 1770183065182,
+          "size": 604,
+          "checksum": "49689008"
+        }
+      },
+      "hospitals": {
+        "data": [
+          {
+            "name": "某某医院",
+            "reports": [
+              {
+                "id": "1745918163134y5c7aacy2",
+                "name": "复查专用报告",
+                "type": "review-report",
+                "createTime": "2025-04-29T09:16:03.134Z",
+                "isFixed": true
+              },
+              {
+                "id": "1760168085217",
+                "name": "肝肾功",
+                "type": "new-blood",
+                "createTime": "2025-10-11T07:34:45.217Z"
+              },
+              {
+                "id": "1760168098351",
+                "name": "血常规",
+                "type": "new-blood",
+                "createTime": "2025-10-11T07:34:58.351Z"
+              },
+              {
+                "id": "1760168109119",
+                "name": "尿常规",
+                "type": "new-blood",
+                "createTime": "2025-10-11T07:35:09.119Z"
+              },
+              {
+                "id": "1745928797525",
+                "name": "病毒检测",
+                "type": "new-blood",
+                "createTime": "2025-04-29T12:13:17.526Z"
+              },
+              {
+                "id": "1747964470805",
+                "name": "用药管理",
+                "type": "new-blood",
+                "createTime": "2025-05-23T01:41:10.805Z"
+              }
+            ]
+          }
+        ],
+        "meta": {
+          "name": "医院数据",
+          "description": "医院信息和相关配置",
+          "collectedAt": 1770183065192,
+          "size": 632,
+          "checksum": "7927c3f5"
+        }
+      }
+    },
+    "summary": {
+      "totalItems": 6,
+      "collectedItems": 2,
+      "errors": []
+    },
+    "timestamp": 1770183065195
+  },
+  "data_version": "1.0.0",
+  "backup_time": 1770183065196,
+  "sync_status": 1,
+  "file_size": 1591,
+  "checksum": "2d205d20"
+}
