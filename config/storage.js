@@ -1,8 +1,8 @@
 // Boze存储配置
 const STORAGE_CONFIG = {
-  owner: 'YOUR_GITHUB_USERNAME',  // 替换为你的GitHub用户名
+  owner: 'c313460963',  // 替换为你的GitHub用户名
   repo: 'boze-storage',          // 仓库名，保持不变
-  token: 'YOUR_GITHUB_TOKEN',    // 替换为你保存的令牌
+  token: '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',    // 替换为你保存的令牌
   branch: 'main'                 // 分支名，保持不变
 };
 
